@@ -8,8 +8,8 @@ const Navbar = () => {
                 <div className="text-lg">
                     <a href="#home" className='ml-12 hover:text-main-color transition ease-in-out duration-400'>Home</a>
                     <a href="#about" className='ml-12 hover:text-main-color transition ease-in-out duration-400'>About</a>
-                    <a href="#skills" className='ml-12 hover:text-main-color transition ease-in-out duration-400'>Skills</a>
                     <a href="#project" className='ml-12 hover:text-main-color transition ease-in-out duration-400'>Project</a>
+                    <a href="#contact" className='ml-12 hover:text-main-color transition ease-in-out duration-400'>Contact</a>
                 </div>
             </div>
       </nav>
